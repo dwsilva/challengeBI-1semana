@@ -1,4 +1,4 @@
-# challengeBI-1ª semana
+# Challenge BI - 1ª semana
 
 <H1>Dashboard de Logística</H1>
 
