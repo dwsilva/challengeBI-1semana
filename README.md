@@ -1,4 +1,4 @@
-# challengeBI-1semana
+# challengeBI-1ª semana
 
 <H1>Dashboard de Logística</H1>
 
@@ -77,4 +77,4 @@ Foi utilizado somente o Power BI para desenvolver o Dashboard
 
 <h2>Link do Dashboard</h2>
 
-https://app.powerbi.com/view?r=eyJrIjoiZDdiZjQyMTktNjVkMC00YmYzLTliMmYtMWMxNDUxMzc2MmM5IiwidCI6IjA3Njg1MDA5LTg5NzAtNGFkNC05MmU1LTkzOWFhYTc1MGZmZCJ9
+https://app.powerbi.com/view?r=eyJrIjoiMTUxNDFhYmQtOWZlNC00NWUxLWJhMjUtYmFjNzc0YmI1OGMyIiwidCI6IjA3Njg1MDA5LTg5NzAtNGFkNC05MmU1LTkzOWFhYTc1MGZmZCJ9
