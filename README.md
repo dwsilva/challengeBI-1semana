@@ -77,4 +77,4 @@ Foi utilizado somente o Power BI para desenvolver o Dashboard
 
 <h2>Link do Dashboard</h2>
 
-https://app.powerbi.com/view?r=eyJrIjoiMTUxNDFhYmQtOWZlNC00NWUxLWJhMjUtYmFjNzc0YmI1OGMyIiwidCI6IjA3Njg1MDA5LTg5NzAtNGFkNC05MmU1LTkzOWFhYTc1MGZmZCJ9
+https://app.powerbi.com/view?r=eyJrIjoiMDk3YmVhOGItNTlkNS00ZDAxLWI2ODItZmEyMGQ5NjY1ODAzIiwidCI6IjA3Njg1MDA5LTg5NzAtNGFkNC05MmU1LTkzOWFhYTc1MGZmZCJ9
